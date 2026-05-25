@@ -9,4 +9,4 @@ def ft_count_harvest_recursive():
     days = int(input())
     if days > 0:
         hv_rec(1, days)
-    print("Harvest Time!")
+    print("Harvest time!")
